@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://www.autodesk.com/content/dam/autodesk/www/products/advance-steel/fy21/overview/images/use-automated-tools-to-create-accurate-drawings-large-1920x1080.jpg" width="1080" alt="Advance Steel Screenshot"/>  
+  <img src="https://cdn.sanity.io/images/sfw2ue5n/production/52146cb96ad67800ab2b970dc0f40856356e3ae1-1919x1135.jpg" width="1080" alt="Advance Steel Screenshot"/>  
 </div>  
 
 <br>  
